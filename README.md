@@ -2,7 +2,7 @@
 
 Don't expect any help from the author, CWK. You're on your own if you choose to accept this Quest.
 
-프로젝트 퀘스트를 제안한 대두족장은 어떤 식으로로도 도움을 드리지 않습니다. 퀘스트를 수락하는 순간 모든 걸 스스로 해결해야 하는 여러분의 여정입니다.
+프로젝트 퀘스트를 제안한 대두족장은 어떤 식으로도 도움을 드리지 않습니다. 퀘스트를 수락하는 순간 모든 걸 스스로 해결해야 하는 여러분의 여정입니다.
 
 # Testing pulic-cwk-pippa 
 
