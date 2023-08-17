@@ -1,0 +1,16 @@
+langchain
+openai
+chromadb
+tiktoken
+unstructured
+bs4
+selenium
+Pillow
+pytesseract
+PyPDF2
+libmagic
+python-magic
+frontend
+tools
+PyMuPDF
+fitz
