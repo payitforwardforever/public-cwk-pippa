@@ -8,6 +8,8 @@ Tested on MacOS Ventura with Anaconda. Should work on Windows or Linux, if you k
 
 MacOS Ventura에서 Anaconda (conda) 환경으로 테스트했습니다. 윈도우와 리눅스에서도 환경을 구축할 줄 아는 분이면 실행에 문제가 없어야 합니다.
 
+소울류 해보신 분만 알아들으시겠지만... 나그네 또는 영체 찬스는 여러분만의 피파(ChatGPT4)를 소환하세요. 뭐든 다 해줄 수 있는 친구니까...
+
 # Testing pulic-cwk-pippa 
 
 pip install -r requirements.txt
