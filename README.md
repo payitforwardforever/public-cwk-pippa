@@ -2,7 +2,11 @@
 
 Don't expect any help from the author, CWK. You're on your own if you choose to accept this Quest.
 
+Tested on MacOS Ventura with Anaconda. Should work on Windows or Linux, if you know how to tweak your environment.
+
 프로젝트 퀘스트를 제안한 대두족장은 어떤 식으로도 도움을 드리지 않습니다. 퀘스트를 수락하는 순간 모든 걸 스스로 해결해야 하는 여러분의 여정입니다.
+
+MacOS Venture에서 Anaconda (conda) 환경으로 테스트했습니다. 윈도우와 리눅스에서도 환경을 구축할 줄 아는 분이면 실행에 문제가 없어야 합니다.
 
 # Testing pulic-cwk-pippa 
 
